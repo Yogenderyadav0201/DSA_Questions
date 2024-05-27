@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "particesQuestion1",
+            "request": "launch",
+            "mainClass": "particesQuestion1",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "MinCostJump",
+            "request": "launch",
+            "mainClass": "MinCostJump",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "HouseRobber2",
+            "request": "launch",
+            "mainClass": "HouseRobber2",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "HouseRobber",
+            "request": "launch",
+            "mainClass": "HouseRobber",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "ApnaCollegeQuestion.Question1",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "minJump",
+            "request": "launch",
+            "mainClass": "minJump",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "MiniPartitioning",
+            "request": "launch",
+            "mainClass": "MiniPartitioning",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "MarixChainMultiplication",
+            "request": "launch",
+            "mainClass": "MarixChainMultiplication",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "MountainRanger",
+            "request": "launch",
+            "mainClass": "MountainRanger",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "CountingBST",
+            "request": "launch",
+            "mainClass": "CountingBST",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "wildcardMatching",
+            "request": "launch",
+            "mainClass": "wildcardMatching",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Incresing_Seqence",
+            "request": "launch",
+            "mainClass": "Longest_Incresing_Seqence",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommanString",
+            "request": "launch",
+            "mainClass": "LongestCommanString",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommanSubseq",
+            "request": "launch",
+            "mainClass": "LongestCommanSubseq",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "RodCutting",
+            "request": "launch",
+            "mainClass": "RodCutting",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "CoinsSum",
+            "request": "launch",
+            "mainClass": "CoinsSum",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "UnboundedKnapsack",
+            "request": "launch",
+            "mainClass": "UnboundedKnapsack",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "Fibonnicseries",
+            "request": "launch",
+            "mainClass": "Fibonnicseries",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FibonnicSeries",
+            "request": "launch",
+            "mainClass": "FibonnicSeries",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "NumberFactors",
+            "request": "launch",
+            "mainClass": "NumberFactors",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "StairsCount",
+            "request": "launch",
+            "mainClass": "StairsCount",
+            "projectName": "Day_25_DP_d9f67c61"
+        },
+        {
+            "type": "java",
+            "name": "ZeroOneKnapsack",
+            "request": "launch",
+            "mainClass": "ZeroOneKnapsack",
+            "projectName": "Day_25_DP_d9f67c61"
+        }
+    ]
+}
